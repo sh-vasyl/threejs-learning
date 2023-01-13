@@ -1,0 +1,8 @@
+{
+	"redirects": [
+		{
+			"source": "/lights",
+			"destination": "/lights.html"
+		}
+	]
+}
