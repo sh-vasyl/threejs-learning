@@ -1,8 +1,8 @@
 {
-	"redirects": [
+	"rewrites": [
 		{
-			"source": "/lights",
-			"destination": "/lights.html"
+			"source": "/(.*)",
+			"destination": "/"
 		}
 	]
 }
